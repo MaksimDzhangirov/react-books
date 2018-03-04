@@ -12,3 +12,6 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/javascript
 6. Автор - Dan Abramov, название - Getting Started with Redux, дата выхода - ?, [ссылка](https://egghead.io/courses/getting-started-with-redux), [ссылка](https://github.com/tayiorbeii/egghead.io_redux_course_notes).
 7. Автор - Dan Abramov, название - Building React Applications with Idiomatic Redux, дата выхода - ?, [ссылка] https://egghead.io/courses/building-react-applications-with-idiomatic-redux, [ссылка](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes).
 8. Автор - Ken Wheeler, название - Learning React.js: Getting Started and Concepts, дата выхода - 2014, обновлено в 2017, [ссылка](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
+9. Автор - Cody Lindley, название - React Enlightenment, дата выхода - ?, [ссылка](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details).
+10. Автор - James Polanco, Aaron Pedersen, название - React In-depth: An exploration of UI development, дата выхода - ?, [ссылка](https://www.gitbook.com/book/developmentarc/react-indepth/details).
+11. Автор - Michael Chau, название - React Primer Draft, 2016, дата выхода - [ссылка](https://github.com/mikechau/react-primer-draft).
