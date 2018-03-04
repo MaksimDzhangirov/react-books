@@ -1,6 +1,4 @@
-# react-books
-
-# Книги по React
+# Книги, обучающие пособия по React
 
 При создании списка использовались следующие источники:
 http://freefrontend.com/reactjs-books/, 
@@ -13,3 +11,4 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/javascript
 5. Автор - Joe Maddalone, название - Start Learning React, дата выхода - ?, [ссылка](https://egghead.io/courses/start-learning-react).
 6. Автор - Dan Abramov, название - Getting Started with Redux, дата выхода - ?, [ссылка](https://egghead.io/courses/getting-started-with-redux), [ссылка](https://github.com/tayiorbeii/egghead.io_redux_course_notes).
 7. Автор - Dan Abramov, название - Building React Applications with Idiomatic Redux, дата выхода - ?, [ссылка] https://egghead.io/courses/building-react-applications-with-idiomatic-redux, [ссылка](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes).
+8. Автор - Ken Wheeler, название - Learning React.js: Getting Started and Concepts, дата выхода - 2014, обновлено в 2017, [ссылка](https://scotch.io/tutorials/learning-react-getting-started-and-concepts).
