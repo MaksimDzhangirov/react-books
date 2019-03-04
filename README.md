@@ -11,8 +11,8 @@ https://github.com/EbookFoundation/free-programming-books/blob/master/javascript
 | 3. | Paul Hudson  | Hacking with React | 2016 | [link](http://www.hackingwithreact.com/) |
 | 4. | Michael Chan | React Patterns | 2017 | [link](https://github.com/chantastic/reactpatterns.com) |
 | 5. | Joe Maddalone | Start Learning React | ? | [link](https://egghead.io/courses/start-learning-react) |
-| 6. | Dan Abramov | Getting Started with Redux | ? | [link](https://egghead.io/courses/getting-started-with-redux), [ссылка](https://github.com/tayiorbeii/egghead.io_redux_course_notes) |
-| 7. | Dan Abramov | Building React Applications with Idiomatic Redux | ? | [link](https://egghead.io/courses/building-react-applications-with-idiomatic-redux), [ссылка](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) |
+| 6. | Dan Abramov | Getting Started with Redux | ? | [link](https://egghead.io/courses/getting-started-with-redux), [link](https://github.com/tayiorbeii/egghead.io_redux_course_notes) |
+| 7. | Dan Abramov | Building React Applications with Idiomatic Redux | ? | [link](https://egghead.io/courses/building-react-applications-with-idiomatic-redux), [link](https://github.com/tayiorbeii/egghead.io_idiomatic_redux_course_notes) |
 | 8. | Ken Wheeler | Learning React.js: Getting Started and Concepts | 2014, updated in 2017 | [link](https://scotch.io/tutorials/learning-react-getting-started-and-concepts) |
 | 9. | Cody Lindley | React Enlightenment | ? | [link](https://www.gitbook.com/book/frontendmasters/react-enlightenment/details) |
 | 10. | James Polanco, Aaron Pedersen | React In-depth: An exploration of UI development | ? | [link](https://www.gitbook.com/book/developmentarc/react-indepth/details) |
